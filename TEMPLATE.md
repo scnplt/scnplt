@@ -1,7 +1,7 @@
 🎂 Account age: **{{ ACCOUNT_AGE }}** years  
 🎉 Commits: **{{ COMMITS }}**  
 💥 Issues: **{{ ISSUES }}**   
-📧 PRs: **{{ PULL_REQUESTS }}**  
+✉️ PRs: **{{ PULL_REQUESTS }}**  
 ⭐ Stars: **{{ STARS }}**  
 📦 Repositories: **{{ REPOSITORIES }}**  
 ✨ Contributed to: **{{ REPOSITORIES_CONTRIBUTED_TO }}**  
