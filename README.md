@@ -1,7 +1,7 @@
 🎂 Account age: **1** years  
-🎉 Commits: **188**  
+🎉 Commits: **189**  
 💥 Issues: **0**   
-📧 PRs: **1**  
+✉️ PRs: **1**  
 ⭐ Stars: **0**  
 📦 Repositories: **9**  
 ✨ Contributed to: **0**  
