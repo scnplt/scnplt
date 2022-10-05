@@ -44,10 +44,3 @@ ___
   <a href="https://www.sqlite.org/index.html"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
   <a href="https://www.rust-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/></a>&nbsp;
 </div>
-
-___
-
-### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="30"> Stats
-
-[![wakatime](https://wakatime.com/badge/user/7a3208ae-8d7c-4834-bad7-68755ddd26b8.svg?style=social)](https://wakatime.com/@7a3208ae-8d7c-4834-bad7-68755ddd26b8)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scnplt&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
