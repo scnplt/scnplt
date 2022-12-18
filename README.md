@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/cnplts">
-      <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
     </a>
     <a href="mailto:aebq9nab4@mozmail.com">
       <img src="https://img.shields.io/badge/Mail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
