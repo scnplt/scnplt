@@ -6,7 +6,7 @@
     <a href="https://t.me/cnplts">
       <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
     </a>
-    <a href="mailto:scnplt@cpolat.com">
+    <a href="mailto:sertan@cpolat.com">
       <img src="https://img.shields.io/badge/Mail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
     </a>
     <a href="https://medium.com/@sertancanpolat">
