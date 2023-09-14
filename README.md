@@ -20,7 +20,7 @@
 
 --- 
 
-### <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> About me:
+### <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> About me
 
 - I am a Android Developer.
 - I love learning new things.
@@ -28,7 +28,7 @@
 
 ___
 
-### <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> Languages and Tools:
+### <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> Languages and Tools
 
 <div>
   <a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>&nbsp;
@@ -37,6 +37,14 @@ ___
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.tensorflow.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.rust-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/></a>&nbsp;
   <a href="https://www.sqlite.org/index.html"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
 </div>
+
+___
+
+### <img src="https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width="30"> Stats
+
+[![wakatime](https://wakatime.com/badge/user/7a3208ae-8d7c-4834-bad7-68755ddd26b8.svg?style=flat)](https://wakatime.com/@7a3208ae-8d7c-4834-bad7-68755ddd26b8)
+![](https://komarev.com/ghpvc/?username=scnplt&style=flat)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=scnplt&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
