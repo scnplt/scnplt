@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <a href="https://sertan.dev"><img src="https://media.giphy.com/media/sQbnLoPizedqPIaq52/giphy-downsized.gif" width="200"/></a>
   <div>
     <a href="https://www.linkedin.com/in/sertanc/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +14,10 @@
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="https://www.codewars.com/users/sertanc">
-      <img src="https://img.shields.io/badge/Codewars-darkred?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
+      <img src="https://img.shields.io/badge/Codewars-f05656?style=for-the-badge&logo=codewars&logoColor=2a2a2e" alt="Codewars Badge"/>
+    </a>
+    <a href="https://leetcode.com/scnplt/">
+      <img src="https://img.shields.io/badge/LeetCode-282828?style=for-the-badge&logo=leetcode&logoColor=ff8724" alt="LeetCode Badge"/>
     </a>
   </div>
 </div>
@@ -22,9 +26,8 @@
 
 ### <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> About me
 
-- I am a Android Developer.
 - I love learning new things.
-- In my spare time, I tinker with open-source projects, solve kata and play terraria.
+- In my spare time, I tinker with open-source projects, solve kata and play Terraria.
 
 ___
 
@@ -46,5 +49,6 @@ ___
 ### <img src="https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width="30"> Stats
 
 [![wakatime](https://wakatime.com/badge/user/7a3208ae-8d7c-4834-bad7-68755ddd26b8.svg?style=flat)](https://wakatime.com/@7a3208ae-8d7c-4834-bad7-68755ddd26b8)
-![](https://komarev.com/ghpvc/?username=scnplt&style=flat)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=scnplt&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Viewer](https://komarev.com/ghpvc/?username=scnplt&style=flat)  
+[![Streak](https://github-readme-streak-stats-scnplt.vercel.app?user=scnplt&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-scnplt.vercel.app/api/top-langs/?username=scnplt&layout=compact&hide=jupyter%20notebook&exclude_repo=github-readme-stats,github-readme-streak-stats,android-studio-settings&theme=dark)  
