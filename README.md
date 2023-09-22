@@ -24,14 +24,14 @@
 
 --- 
 
-### <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> About me
+### []() <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> About me 
 
 - I love learning new things.
 - In my spare time, I tinker with open-source projects, solve kata and play Terraria.
 
 ___
 
-### <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> Languages and Tools
+### []() <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> Languages and Tools
 
 <div>
   <a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>&nbsp;
@@ -46,7 +46,7 @@ ___
 
 ___
 
-### <img src="https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width="30"> Stats
+### []() <img src="https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width="30"> Stats
 
 [![wakatime](https://wakatime.com/badge/user/7a3208ae-8d7c-4834-bad7-68755ddd26b8.svg?style=flat)](https://wakatime.com/@7a3208ae-8d7c-4834-bad7-68755ddd26b8)
 ![Viewer](https://komarev.com/ghpvc/?username=scnplt&style=flat)  
