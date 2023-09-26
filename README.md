@@ -49,6 +49,4 @@ ___
 ### []() <img src="https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width="30"> Stats
 
 [![wakatime](https://wakatime.com/badge/user/7a3208ae-8d7c-4834-bad7-68755ddd26b8.svg?style=flat)](https://wakatime.com/@7a3208ae-8d7c-4834-bad7-68755ddd26b8)
-![Viewer](https://komarev.com/ghpvc/?username=scnplt&style=flat)  
-[![Streak](https://github-readme-streak-stats-scnplt.vercel.app?user=scnplt&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-scnplt.vercel.app/api/top-langs/?username=scnplt&layout=compact&hide=jupyter%20notebook&exclude_repo=github-readme-stats,github-readme-streak-stats,android-studio-settings&theme=dark)  
+![Viewer](https://komarev.com/ghpvc/?username=scnplt&style=flat)
