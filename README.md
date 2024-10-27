@@ -21,24 +21,3 @@
     </a>
   </div>
 </div>
-
---- 
-
-### []() <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> About me 
-
-- I love learning new things.
-- In my spare time, I tinker with open-source projects, solve kata and play Terraria.
-
-___
-
-### []() <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> Languages and Tools
-
-<div>
-  <a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" title="Rust" alt="Rust" width="40" height="40"/></a>&nbsp;
-  <a href="https://firebase.google.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.sqlite.org/index.html"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
-</div>
